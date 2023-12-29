@@ -6,3 +6,8 @@
     .page{
         @apply px-1 transition-all duration-300 hover:bg-[#6b7280] hover:rounded-xl
     }
+
+    .svg-container {
+        
+        background-image: url('../public/svgs/logo.svg');
+    }
